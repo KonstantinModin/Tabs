@@ -1,6 +1,6 @@
 # Tabs
 
-Simple JS code for tabs
+Simple Vanilla JS code for tabs
 
 
 tab - links of tabs
